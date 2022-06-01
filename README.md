@@ -9,6 +9,7 @@
 <h1 align="center">Todo Web Application</h1>
 
 <p align="center">
+  <a href="https://github.com/devenes/todo-web-app/actions/workflows/node.js.yml"> <img src="https://github.com/devenes/todo-web-app/actions/workflows/node.js.yml/badge.svg" alt="Test"/></a>
   <img alt="Tool" src="https://badges.aleen42.com/src/docker.svg">
   <img alt="Tool" src="https://badges.aleen42.com/src/node.svg">
   <img alt="Tool" src="https://badges.aleen42.com/src/javascript.svg">
