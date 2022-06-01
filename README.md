@@ -12,6 +12,7 @@
   <img alt="Tool" src="https://badges.aleen42.com/src/docker.svg">
   <img alt="Tool" src="https://badges.aleen42.com/src/node.svg">
   <img alt="Tool" src="https://badges.aleen42.com/src/javascript.svg">
+  <img alt="Tool" src="https://badges.aleen42.com/src/react.svg">
   <img alt="Tool" src="https://badges.aleen42.com/src/github.svg">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/todo-web-app?color=red">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/devenes/todo-web-app?color=purple">
@@ -42,7 +43,7 @@
 
 ## :dart: About ##
 
-Javascript Node.js web application to manage your todo list in a simple and easy way 🚀 
+Javascript web application to manage your todo list in a simple and easy way 🚀 
 
 ## :rocket: Technologies ##
 
@@ -56,6 +57,7 @@ The following tools were used in this project:
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
 - [Yarn](https://yarnpkg.com/)
+- [React](https://reactjs.org/)
 
 ## :white_check_mark: Requirements ##
 
