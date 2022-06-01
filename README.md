@@ -128,13 +128,13 @@ docker container ls
 
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 
-- [GitHub Documentation](https://help.github.com/en/github/getting-started-with-github/about-the-github-command-line)
+- [GitHub Documentation](https://docs.github.com/en/get-started/)
 
-- [Docker Documentation](https://docs.docker.com/docker-for-mac/install/mac-docker)
+- [Docker Documentation](https://docs.docker.com/get-started/overview/)
 
 ## :memo: License ##
 
-This project is under license from Apache. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from Apache. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/devenes" target="_blank">devenes</a>
