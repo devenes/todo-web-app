@@ -9,13 +9,17 @@
 <h1 align="center">Todo Web Application</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/todo-web-app?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/devenes/todo-web-app?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/devenes/todo-web-app?color=56BEB8">
-  <img alt="License" src="https://img.shields.io/github/license/devenes/todo-web-app?color=56BEB8">
-  <img alt="Github issues" src="https://img.shields.io/github/issues/devenes/todo-web-app?color=56BEB8" />
+  <img alt="Tool" src="https://badges.aleen42.com/src/docker.svg">
+  <img alt="Tool" src="https://badges.aleen42.com/src/node.svg">
+  <img alt="Tool" src="https://badges.aleen42.com/src/javascript.svg">
+  <img alt="Tool" src="https://badges.aleen42.com/src/github.svg">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/devenes/todo-web-app?color=red">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/devenes/todo-web-app?color=purple">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/devenes/todo-web-app?color=green">
+  <img alt="License" src="https://img.shields.io/github/license/devenes/todo-web-app?color=brown">  
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/devenes/todo-web-app?color=56BEB8" />
   <img alt="Github forks" src="https://img.shields.io/github/forks/devenes/todo-web-app?color=56BEB8" />
-  <img alt="Github stars" src="https://img.shields.io/github/stars/devenes/todo-web-app?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/devenes/todo-web-app?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -31,11 +35,10 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#-Expected-Output">Output</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/devenes" target="_blank">Author</a>
 </p>
-
-<br>
 
 ## :dart: About ##
 
@@ -56,7 +59,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Docker](https://www.docker.com/), [Yarn](https://yarnpkg.com/) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag: you need to have [Git](https://git-scm.com), [Docker](https://www.docker.com/), [Yarn](https://yarnpkg.com/) and [Node](https://nodejs.org/en/) installed.
 
 ## :checkered_flag: Starting ##
 
@@ -111,6 +114,10 @@ docker ps
 # or
 docker container ls
 ```
+
+## 📷 Expected Output ##
+
+![output](output.jpg)
 
 ## 📚 Resources
 
