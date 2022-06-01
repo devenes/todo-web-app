@@ -6,7 +6,7 @@
   "license": "Apache-2.0",
   "scripts": {
     "prettify": "prettier -l --write \"**/*.js\"",
-    "test": "jest",
+    "test": "jest spec/routes/addItem.spec.js",
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
   },
