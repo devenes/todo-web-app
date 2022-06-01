@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Devenes",
   "main": "index.js",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
     "prettify": "prettier -l --write \"**/*.js\"",
     "test": "jest",
