@@ -58,6 +58,8 @@ The following tools were used in this project:
 - [GitHub](https://github.com/)
 - [Yarn](https://yarnpkg.com/)
 - [React](https://reactjs.org/)
+- [Express](https://expressjs.com/)
+- [SQLite](https://www.sqlite.org/)
 
 ## :white_check_mark: Requirements ##
 
