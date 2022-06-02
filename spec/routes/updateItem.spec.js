@@ -1,6 +1,8 @@
 const db = require('../../src/persistence');
 const updateItem = require('../../src/routes/updateItem');
-const ITEM = { id: 12345 };
+const ITEM = {
+    id: 12345
+};
 
 jest.mock('../../src/persistence', () => ({
     getItem: jest.fn(),
@@ -9,10 +11,17 @@ jest.mock('../../src/persistence', () => ({
 
 test('it updates items correctly', async () => {
     const req = {
-        params: { id: 1234 },
-        body: { name: 'New title', completed: false },
+        params: {
+            id: 1234
+        },
+        body: {
+            name: 'New title',
+            completed: false
+        },
     };
-    const res = { send: jest.fn() };
+    const res = {
+        send: jest.fn()
+    };
 
     db.getItem.mockReturnValue(Promise.resolve(ITEM));
 
