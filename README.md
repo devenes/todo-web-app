@@ -19,9 +19,9 @@
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/devenes/todo-web-app?color=purple">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/devenes/todo-web-app?color=green">
   <img alt="License" src="https://img.shields.io/github/license/devenes/todo-web-app?color=brown">  
+  <img alt="Github stars" src="https://img.shields.io/github/stars/devenes/todo-web-app?color=56BEB8" /> 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/devenes/todo-web-app?color=56BEB8" />
-  <img alt="Github forks" src="https://img.shields.io/github/forks/devenes/todo-web-app?color=56BEB8" />
-  <img alt="Github stars" src="https://img.shields.io/github/stars/devenes/todo-web-app?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/devenes/todo-web-app?color=56BEB8" />-->  
 </p>
 
 <!-- Status -->
@@ -88,7 +88,7 @@ yarn install --production
 ```bash
 # Run the project
 # The server will initialize in the <http://localhost:3000>
-node /src/index.js
+npm run start
 ```
 
 ### If you want to run the project in a Docker container, you can use the following command:
