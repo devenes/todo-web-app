@@ -1,6 +1,8 @@
 const db = require('../../src/persistence');
 const deleteItem = require('../../src/routes/deleteItem');
-const ITEM = { id: 12345 };
+const ITEM = {
+    id: 12345
+};
 
 jest.mock('../../src/persistence', () => ({
     removeItem: jest.fn(),
@@ -8,8 +10,14 @@ jest.mock('../../src/persistence', () => ({
 }));
 
 test('it removes item correctly', async () => {
-    const req = { params: { id: 12345 } };
-    const res = { sendStatus: jest.fn() };
+    const req = {
+        params: {
+            id: 12345
+        }
+    };
+    const res = {
+        sendStatus: jest.fn()
+    };
 
     await deleteItem(req, res);
 
